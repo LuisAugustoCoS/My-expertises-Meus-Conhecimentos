@@ -1,0 +1,8 @@
+//primitivos imutáves 
+
+//são indexados 
+let nome ='luis';
+//referencia -- array object function
+//eles tem o mesmo valor  o que afeta um afeta o outro
+//os primitivos são copiados  e são indenpendentes da copia 
+
